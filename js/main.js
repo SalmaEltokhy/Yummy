@@ -1,4 +1,4 @@
-<reference types="../@types/jquery" />
+// <reference types="../@types/jquery" />
 
 let rowData = document.getElementById("rowData");
 let searchContainer = document.getElementById("searchContainer");
